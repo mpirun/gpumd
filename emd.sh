@@ -4,7 +4,7 @@
 log_dir="logs"
 mkdir -p $log_dir
 
-# 默认EMD计算次数为10
+# 默认EMD计算次数为20
 count=20
 
 # 根据固定的次数依次执行命令
